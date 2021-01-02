@@ -1,7 +1,9 @@
 This is my project for looking at Real Estate Data in Vancouver
 
 My step process will be 
-1. Parse Data from Website for Condo prices 2017-Present
+1. Parse Data from Website
+    Notes: Data collected for current postings
+           Removed Lots and Multifamilies because there seems to be quite a bit of missing data. In the future will go back to revise
 2. Clean data 
 3. Basic analysis of data
 4. Visualization of data (correlation heatmaps)

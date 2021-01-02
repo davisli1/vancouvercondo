@@ -1,0 +1,551 @@
+,price,address,proptype,region,city,bedrooms,bathrooms,sqft
+0,699900,1101-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,1,759
+1,1275000,1005-1450 Pennyfarthing Drive,Apt/Condo,False Creek,Vancouver,2,2,1156
+2,599000,1807-833 Homer Street,Apt/Condo,Downtown West,Vancouver,1,1,527
+3,829000,1109-188 Keefer Street,Apt/Condo,Downtown East,Vancouver,3,2,875
+4,599000,1101-58 Keefer Place,Apt/Condo,Downtown West,Vancouver,1,1,620
+5,2168000,1601-2411 Heather Street,Apt/Condo,Fairview,Vancouver,3,2,1452
+6,549000,317-1422 E 3rd Avenue,Apt/Condo,Grandview East,Vancouver,1,1,635
+7,469000,2-2375 W Broadway,Apt/Condo,Kitsilano,Vancouver,0,1,481
+8,655000,1407-977 Mainland Street,Apt/Condo,Yaletown,Vancouver,1,1,561
+9,828000,1604-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,1,1,610
+10,688000,310-58 Keefer Place,Apt/Condo,Downtown West,Vancouver,1,1,623
+11,1169900,1203-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,2,2,900
+12,1098000,205-388 Drake Street,Apt/Condo,Yaletown,Vancouver,2,2,1096
+13,998000,3206-1200 W Georgia Street,Apt/Condo,West End,Vancouver,2,2,1002
+14,799900,7-939 W 7th Avenue,Apt/Condo,Fairview,Vancouver,2,2,830
+15,788000,3102-1283 Howe Street,Apt/Condo,Downtown West,Vancouver,1,1,562
+16,899000,2101-1325 Rolston Street,Apt/Condo,Downtown West,Vancouver,2,2,840
+17,699000,2508-777 Richards Street,Apt/Condo,Downtown West,Vancouver,1,1,573
+18,774900,2404-1188 Howe Street,Apt/Condo,Downtown West,Vancouver,2,2,743
+19,590000,104-315 Renfrew Street,Apt/Condo,Hastings Sunrise,Vancouver,2,1,858
+20,1098000,1507-3487 Binning Road,Apt/Condo,University (Ubc),Vancouver,2,2,907
+21,549000,1605-1308 Hornby Street,Apt/Condo,Downtown West,Vancouver,1,1,465
+22,1465000,503-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1165
+23,1029900,501-1003 Pacific Street,Apt/Condo,West End,Vancouver,2,2,1065
+24,1275000,1005-1450 Pennyfarthing Drive,Apt/Condo,False Creek,Vancouver,2,2,1156
+25,799900,905-4638 Gladstone Street,Apt/Condo,Victoria East,Vancouver,3,2,990
+26,1200000,1107-159 W 2nd Avenue,Apt/Condo,False Creek,Vancouver,2,2,996
+27,725000,1402-909 Mainland Street,Apt/Condo,Yaletown,Vancouver,1,1,663
+28,444800,306-930 E 7th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,1,463
+29,1429000,3303-1199 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,2,2,1043
+30,4488000,701-1409 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,3,3,2323
+31,1189000,1103-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,2,2,904
+32,298000,102-2588 E Broadway,Apt/Condo,Renfrew Heights,Vancouver,2,2,923
+33,3500000,5006-777 Richards Street,Apt/Condo,Downtown West,Vancouver,2,3,1553
+34,1398000,405-5693 Elizabeth Street,Apt/Condo,Cambie,Vancouver,2,2,1067
+35,1999000,3702-833 Seymour Street,Apt/Condo,Downtown West,Vancouver,2,2,1346
+36,1550000,PH2-238 W Broadway,Apt/Condo,Mount Pleasant West,Vancouver,2,2,1164
+37,694900,219 E 20th Avenue,Apt/Condo,Main,Vancouver,1,2,647
+38,599000,505-221 Union Street,Apt/Condo,Strathcona,Vancouver,1,1,630
+39,979900,2003-999 Seymour Street,Apt/Condo,Downtown West,Vancouver,2,1,711
+40,675000,3010-833 Seymour Street,Apt/Condo,Downtown West,Vancouver,1,1,603
+41,688000,403-3590 W 26th Avenue,Apt/Condo,Dunbar,Vancouver,2,1,769
+42,578000,306-1250 W 12th Avenue,Apt/Condo,Fairview,Vancouver,1,1,764
+43,678000,313-3588 Sawmill Crescent,Apt/Condo,South Marine,Vancouver,2,2,818
+44,589900,405-2688 Vine Street,Apt/Condo,Kitsilano,Vancouver,1,1,558
+45,1429000,3303-1199 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,2,2,1043
+46,818000,1110-2220 Kingsway,Apt/Condo,Victoria East,Vancouver,2,2,880
+47,808888,2803-438 Seymour Street,Apt/Condo,Downtown West,Vancouver,2,2,721
+48,998000,2503-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1006
+49,1698000,3105-1239 W Georgia Street,Apt/Condo,Coal Harbour,Vancouver,3,3,1423
+50,699900,1101-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,1,759
+51,799000,1402-4655 Valley Drive,Apt/Condo,Quilchena,Vancouver,1,1,851
+52,589000,301-1189 Howe Street,Apt/Condo,Downtown West,Vancouver,1,1,615
+53,3298000,1103-1550 Alberni Street,Apt/Condo,West End,Vancouver,2,2,1923
+54,655000,307-928 Beatty Street,Apt/Condo,Yaletown,Vancouver,1,1,618
+55,699000,802-789 Drake Street,Apt/Condo,Downtown West,Vancouver,1,1,596
+56,1478888,506-181 W 1st Avenue,Apt/Condo,False Creek,Vancouver,2,2,1121
+57,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+58,739000,801-1783 Manitoba Street,Apt/Condo,False Creek,Vancouver,1,1,721
+59,789000,202-535 Smithe Street,Apt/Condo,Downtown West,Vancouver,1,1,718
+60,649000,503-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,1,1,760
+61,1465000,503-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1165
+62,1029900,501-1003 Pacific Street,Apt/Condo,West End,Vancouver,2,2,1065
+63,1999900,1901-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,2,1287
+64,988000,2207-999 Seymour Street,Apt/Condo,Downtown West,Vancouver,2,1,706
+65,729900,915-1618 Quebec Street,Apt/Condo,Mount Pleasant East,Vancouver,1,1,680
+66,899800,309-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,3,2,978
+67,1478888,506-181 W 1st Avenue,Apt/Condo,False Creek,Vancouver,2,2,1121
+68,2198000,802-1355 W Broadway,Apt/Condo,Fairview,Vancouver,2,2,1900
+69,628000,307-311 E 6th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,1,524
+70,780000,1501-1009 Harwood Street,Apt/Condo,West End,Vancouver,1,1,652
+71,589900,405-2688 Vine Street,Apt/Condo,Kitsilano,Vancouver,1,1,558
+72,499900,209-2889 E 1st Avenue,Apt/Condo,Renfrew,Vancouver,1,1,575
+73,549900,205-8915 Hudson Street,Apt/Condo,Marpole,Vancouver,1,1,758
+74,1550000,203-1860 Robson Street,Apt/Condo,West End,Vancouver,3,2,1565
+75,1199000,907-5615 Hampton Place,Apt/Condo,University (Ubc),Vancouver,2,2,1394
+76,2450000,SPH9-1245 Homer Street,Apt/Condo,Yaletown,Vancouver,2,3,1807
+77,998000,302-6311 Cambie Street,Apt/Condo,Oakridge,Vancouver,2,2,848
+78,1020000,1302-1133 Hornby Street,Apt/Condo,Downtown West,Vancouver,2,2,874
+79,799900,2001-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,1,770
+80,820000,505-1009 Harwood Street,Apt/Condo,West End,Vancouver,1,1,706
+81,2258900,203-717 W 17th Avenue,Apt/Condo,Cambie,Vancouver,2,2,1405
+82,498000,1110-939 Homer Street,Apt/Condo,Yaletown,Vancouver,1,1,443
+83,1099000,PH3-4815 Eldorado Mews,Apt/Condo,Collingwood,Vancouver,2,2,1119
+84,469000,517-2888 E 2nd Avenue,Apt/Condo,Renfrew,Vancouver,1,1,540
+85,9280000,4307-1011 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,2,3,2667
+86,568000,104-2250 W 43rd Avenue,Apt/Condo,Kerrisdale,Vancouver,2,1,1075
+87,899000,1205-789 Drake Street,Apt/Condo,Downtown West,Vancouver,2,2,762
+88,4900000,4903-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,3,3,2137
+89,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+90,579000,1110-501 Pacific Street,Apt/Condo,Downtown West,Vancouver,0,1,500
+91,563800,401-1635 W 3rd Avenue,Apt/Condo,False Creek,Vancouver,0,1,525
+92,550000,978 W 16th Avenue,Apt/Condo,Cambie,Vancouver,1,1,522
+93,799800,508-833 Homer Street,Apt/Condo,Downtown West,Vancouver,1,1,676
+94,1999988,901-1790 Bayshore Drive,Apt/Condo,Coal Harbour,Vancouver,2,2,1068
+95,1988000,1804-1205 W Hastings Street,Apt/Condo,Coal Harbour,Vancouver,2,2,1250
+96,1150000,1305-620 Cardero Street,Apt/Condo,Coal Harbour,Vancouver,2,1,718
+97,1699900,103-388 Drake Street,Apt/Condo,Yaletown,Vancouver,2,2,1252
+98,1319000,2704-1200 Alberni Street,Apt/Condo,West End,Vancouver,3,2,1159
+99,629000,404-1633 W 8th Avenue,Apt/Condo,Fairview,Vancouver,1,1,650
+100,799999,1006-1189 Melville Street,Apt/Condo,Coal Harbour,Vancouver,1,1,708
+101,653000,511-3281 E Kent Avenue North,Apt/Condo,South Marine,Vancouver,2,2,918
+102,645000,301-231 E Pender Street,Apt/Condo,Strathcona,Vancouver,1,1,750
+103,639000,917-68 Smithe Street,Apt/Condo,Downtown West,Vancouver,1,1,501
+104,2789000,1402-1661 Ontario Street,Apt/Condo,False Creek,Vancouver,3,3,1956
+105,830000,203-4882 Slocan Street,Apt/Condo,Collingwood,Vancouver,3,2,877
+106,579900,1110-5189 Gaston Street,Apt/Condo,Collingwood,Vancouver,2,2,754
+107,1375000,1014 E 7th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,3,2,1406
+108,2458000,806/807-5615 Hampton Place,Apt/Condo,University (Ubc),Vancouver,4,3,2300
+109,749900,1107-989 Nelson Street,Apt/Condo,Downtown West,Vancouver,2,2,808
+110,3500000,5006-777 Richards Street,Apt/Condo,Downtown West,Vancouver,2,3,1553
+111,2998000,5505-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,3,1593
+112,639000,701-989 Nelson Street,Apt/Condo,Downtown West,Vancouver,1,1,619
+113,673000,586-87 Nelson Street,Apt/Condo,Yaletown,Vancouver,1,1,534
+114,698000,1401-928 Richards Street,Apt/Condo,Yaletown,Vancouver,1,1,601
+115,899000,1505-907 Beach Avenue,Apt/Condo,Yaletown,Vancouver,2,2,765
+116,1150000,505-110 Switchmen Street,Apt/Condo,Mount Pleasant East,Vancouver,2,2,1030
+117,2998000,5505-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,3,1593
+118,499900,506-3438 Vanness Avenue,Apt/Condo,Collingwood,Vancouver,1,1,600
+119,1998000,1110 W 15th Avenue,Apt/Condo,Shaughnessy,Vancouver,3,2,1580
+120,2198000,1112 W 15th Avenue,Apt/Condo,Shaughnessy,Vancouver,3,1,1777
+121,568800,1509-5288 Melbourne Street,Apt/Condo,Collingwood,Vancouver,2,1,844
+122,550000,1606-1188 Howe Street,Apt/Condo,Downtown West,Vancouver,1,1,500
+123,2880000,2404-1077 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,2,2,1357
+124,1148000,1105-1055 Homer Street,Apt/Condo,Yaletown,Vancouver,2,2,923
+125,1198000,701-1690 W 8th Avenue,Apt/Condo,Fairview,Vancouver,2,2,1007
+126,1290000,507-638 Beach Crescent,Apt/Condo,Yaletown,Vancouver,2,2,1057
+127,2588000,3201-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,2,1483
+128,6450000,1702-1560 Homer Mews,Apt/Condo,Yaletown,Vancouver,3,3,2027
+129,749800,305-555 W 14th Avenue,Apt/Condo,Fairview,Vancouver,2,1,785
+130,1699000,1509-3487 Binning Road,Apt/Condo,University (Ubc),Vancouver,3,2,1302
+131,1149900,2507-1723 Alberni Street,Apt/Condo,West End,Vancouver,2,2,839
+132,655000,307-928 Beatty Street,Apt/Condo,Yaletown,Vancouver,1,1,618
+133,1448000,1401-1205 Howe Street,Apt/Condo,Downtown West,Vancouver,2,2,1248
+134,1088000,319-1783 Manitoba Street,Apt/Condo,False Creek,Vancouver,2,2,1063
+135,899000,305-3621 W 26th Avenue,Apt/Condo,Dunbar,Vancouver,2,2,1133
+136,559000,710-489 Interurban Way,Apt/Condo,Marpole,Vancouver,1,1,561
+137,599000,2604-5515 Boundary Road,Apt/Condo,Collingwood,Vancouver,1,1,601
+138,1268000,106-6933 Cambie Street,Apt/Condo,South Cambie,Vancouver,2,2,1034
+139,828000,1001-1005 Beach Avenue,Apt/Condo,West End,Vancouver,1,1,716
+140,3289000,2203-620 Cardero Street,Apt/Condo,Coal Harbour,Vancouver,3,2,1455
+141,868000,308-7580 Columbia Street,Apt/Condo,Marpole,Vancouver,2,2,1136
+142,1098000,601-4189 Cambie Street,Apt/Condo,Cambie,Vancouver,2,2,864
+143,2690000,1901-1280 Richards Street,Apt/Condo,Yaletown,Vancouver,2,3,1861
+144,2698000,501-138 Athletes Way,Apt/Condo,False Creek,Vancouver,2,2,1688
+145,1298000,504-1501 Howe Street,Apt/Condo,Yaletown,Vancouver,2,2,1135
+146,969000,307-1477 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,1,1,817
+147,549900,309-1476 W 10th Avenue,Apt/Condo,Fairview,Vancouver,1,1,624
+148,1295000,2002-1020 Harwood Street,Apt/Condo,West End,Vancouver,2,2,1040
+149,599000,503-1888 York Avenue,Apt/Condo,Kitsilano,Vancouver,1,1,631
+150,699000,2008-777 Richards Street,Apt/Condo,Downtown West,Vancouver,1,1,573
+151,938000,101-5788 Birney Avenue,Apt/Condo,University (Ubc),Vancouver,2,2,910
+152,1388000,PH3-5555 Dunbar Street,Apt/Condo,Southlands,Vancouver,3,3,1366
+153,979000,2402-128 W Cordova Street,Apt/Condo,Downtown West,Vancouver,2,2,918
+154,589900,405-2688 Vine Street,Apt/Condo,Kitsilano,Vancouver,1,1,558
+155,655000,307-928 Beatty Street,Apt/Condo,Yaletown,Vancouver,1,1,618
+156,549000,316-2220 Kingsway,Apt/Condo,Victoria East,Vancouver,1,1,569
+157,998900,405-1088 Quebec Street,Apt/Condo,Downtown East,Vancouver,2,2,1215
+158,4250000,805-1600 Hornby Street,Apt/Condo,Yaletown,Vancouver,2,3,1781
+159,629000,204-2505 E Broadway,Apt/Condo,Renfrew,Vancouver,2,2,972
+160,489000,1606-3588 Crowley Drive,Apt/Condo,Collingwood,Vancouver,1,1,601
+161,699000,212-1045 W 8th Avenue,Apt/Condo,Fairview,Vancouver,2,1,745
+162,728000,307-2083 W 33rd Avenue,Apt/Condo,Quilchena,Vancouver,2,1,750
+163,1679900,303-3636 W 39th Avenue,Apt/Condo,Southlands,Vancouver,2,3,1013
+164,699000,2210-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,1,1,482
+165,849000,305-1006 Beach Avenue,Apt/Condo,Yaletown,Vancouver,2,2,981
+166,2368000,403-1205 W Hastings Street,Apt/Condo,Coal Harbour,Vancouver,2,2,1350
+167,589000,1810-1060 Alberni Street,Apt/Condo,West End,Vancouver,1,1,603
+168,3699000,1501-620 Cardero Street,Apt/Condo,Coal Harbour,Vancouver,3,3,1545
+169,1359000,504-1949 Beach Avenue,Apt/Condo,West End,Vancouver,2,2,1279
+170,999000,809-1500 Howe Street,Apt/Condo,Yaletown,Vancouver,2,2,968
+171,838000,108-7680 Columbia Street,Apt/Condo,Marpole,Vancouver,2,2,1183
+172,625000,704-989 Nelson Street,Apt/Condo,Downtown West,Vancouver,2,1,631
+173,885000,403-1436 Harwood Street,Apt/Condo,West End,Vancouver,2,2,978
+174,918000,1504-620 Cardero Street,Apt/Condo,Coal Harbour,Vancouver,1,1,621
+175,5498000,4802-1128 W Georgia Street,Apt/Condo,West End,Vancouver,2,3,2681
+176,969000,307-1477 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,1,1,817
+177,1465000,503-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1165
+178,1228000,1002-1000 Beach Avenue,Apt/Condo,Yaletown,Vancouver,2,2,1158
+179,610000,1505-1255 Seymour Street,Apt/Condo,Downtown West,Vancouver,1,1,513
+180,899900,705-2445 W 3rd Avenue,Apt/Condo,Kitsilano,Vancouver,1,1,897
+181,659000,5178 Chambers Street,Apt/Condo,Collingwood,Vancouver,2,2,857
+182,2988000,2418-89 Nelson Street,Apt/Condo,Yaletown,Vancouver,3,3,1371
+183,1198000,1601-289 Drake Street,Apt/Condo,Yaletown,Vancouver,2,2,1207
+184,778000,403-1690 W 8th Avenue,Apt/Condo,Fairview,Vancouver,1,1,678
+185,1448000,1401-1205 Howe Street,Apt/Condo,Downtown West,Vancouver,2,2,1248
+186,875000,105-5383 Cambie Street,Apt/Condo,Cambie,Vancouver,1,1,701
+187,799000,207-4101 Yew Street,Apt/Condo,Quilchena,Vancouver,2,1,1000
+188,584900,311-221 Union Street,Apt/Condo,Strathcona,Vancouver,1,1,678
+189,495000,909-1367 Alberni Street,Apt/Condo,West End,Vancouver,0,1,396
+190,1680000,804-1616 Bayshore Drive,Apt/Condo,Coal Harbour,Vancouver,2,2,1254
+191,1499900,601-5089 Quebec Street,Apt/Condo,Main,Vancouver,2,2,1190
+192,999999,1806-128 W Cordova Street,Apt/Condo,Downtown West,Vancouver,2,2,1143
+193,848800,1101-1633 W 8th Avenue,Apt/Condo,Fairview,Vancouver,2,2,855
+194,990000,707-3355 Binning Road,Apt/Condo,University (Ubc),Vancouver,2,2,912
+195,1399000,107-5638 Birney Avenue,Apt/Condo,University (Ubc),Vancouver,3,2,1070
+196,2688000,1203-5838 Berton Avenue,Apt/Condo,University (Ubc),Vancouver,3,3,1906
+197,598800,526-4078 Knight Street,Apt/Condo,Knight,Vancouver,1,1,718
+198,969000,307-1477 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,1,1,817
+199,589900,405-2688 Vine Street,Apt/Condo,Kitsilano,Vancouver,1,1,558
+200,599900,407-928 Homer Street,Apt/Condo,Yaletown,Vancouver,1,1,498
+201,1328000,401-138 W 6th Avenue,Apt/Condo,Mount Pleasant West,Vancouver,2,2,1252
+202,889900,201-1000 Beach Avenue,Apt/Condo,Yaletown,Vancouver,1,2,1092
+203,725000,508-2101 Mcmullen Avenue,Apt/Condo,Quilchena,Vancouver,1,1,997
+204,419900,606-150 E Cordova Street,Apt/Condo,Downtown East,Vancouver,1,1,520
+205,819000,202-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,2,2,925
+206,670000,505-788 Hamilton Street,Apt/Condo,Downtown West,Vancouver,1,1,592
+207,729000,1304-909 Mainland Street,Apt/Condo,Yaletown,Vancouver,1,1,603
+208,864900,311-962 W 16th Avenue,Apt/Condo,Cambie,Vancouver,1,2,1070
+209,1458800,308-168 E 35th Avenue,Apt/Condo,Main,Vancouver,3,2,1213
+210,1095000,2306-777 Richards Street,Apt/Condo,Downtown West,Vancouver,2,2,909
+211,8880000,4301-1189 Melville Street,Apt/Condo,Coal Harbour,Vancouver,4,6,5708
+212,650000,W308-488 Kingsway Street,Apt/Condo,Mount Pleasant East,Vancouver,2,2,773
+213,719900,717-1088 Richards Street,Apt/Condo,Yaletown,Vancouver,2,1,709
+214,2250000,2202-8555 Granville Street,Apt/Condo,Southwest Marine,Vancouver,4,4,1830
+215,9975000,2001-1835 Morton Avenue,Apt/Condo,West End,Vancouver,2,3,2740
+216,10980000,3000-1050 Burrard Street,Apt/Condo,West End,Vancouver,5,8,7136
+217,1629000,1604-8570 Rivergrass Drive,Apt/Condo,South Marine,Vancouver,4,3,1673
+218,849900,2203-1188 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,1,1,621
+219,1150000,408-503 W 16th Avenue,Apt/Condo,Fairview,Vancouver,3,2,1426
+220,2998000,5505-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,3,1593
+221,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+222,1688000,1102-1495 Richards Street,Apt/Condo,Yaletown,Vancouver,2,2,1136
+223,4900000,4903-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,3,3,2137
+224,744800,852-1483 E King Edward Avenue,Apt/Condo,Knight,Vancouver,2,2,910
+225,1650000,1903-1835 Morton Avenue,Apt/Condo,West End,Vancouver,2,2,1181
+226,549900,301-233 Kingsway,Apt/Condo,Mount Pleasant East,Vancouver,0,1,508
+227,828000,2901-602 Citadel Parade,Apt/Condo,Downtown West,Vancouver,2,1,815
+228,749000,408-919 Station Street,Apt/Condo,Strathcona,Vancouver,2,1,795
+229,899800,309-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,3,2,978
+230,1548800,273 Columbia Street,Apt/Condo,Downtown East,Vancouver,1,2,1587
+231,725000,309-988 Richards Street,Apt/Condo,Yaletown,Vancouver,1,1,707
+232,4200000,1402-1688 Pullman Porter Street,Apt/Condo,Mount Pleasant East,Vancouver,2,3,1685
+233,639900,323-350 E 2nd Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,1,748
+234,469000,104-1445 Marpole Avenue,Apt/Condo,Fairview,Vancouver,1,1,580
+235,1449000,2601-969 Richards Street,Apt/Condo,Downtown West,Vancouver,2,2,1255
+236,999000,A203-4908 Cambie Street,Apt/Condo,Cambie,Vancouver,2,2,842
+237,2399800,201-888 Hamilton Street,Apt/Condo,Downtown West,Vancouver,3,3,2006
+238,1082310,202-485 W 63 Avenue,Apt/Condo,Marpole,Vancouver,2,2,839
+239,875000,107-3162 Riverwalk Avenue,Apt/Condo,South Marine,Vancouver,2,2,1097
+240,488000,105-288 E 14th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,1,526
+241,715000,356-168 W 1st Avenue,Apt/Condo,False Creek,Vancouver,1,1,625
+242,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+243,1029900,501-1003 Pacific Street,Apt/Condo,West End,Vancouver,2,2,1065
+244,9288000,2501-1775 Quebec Street,Apt/Condo,Mount Pleasant East,Vancouver,3,4,3233
+245,1785000,207-444 W 49th Avenue,Apt/Condo,Oakridge,Vancouver,3,2,1358
+246,2988000,607-323 Jervis Street,Apt/Condo,Coal Harbour,Vancouver,2,2,1255
+247,679900,2501-1199 Seymour Street,Apt/Condo,Downtown West,Vancouver,1,1,600
+248,1900000,802-1171 Jervis Street,Apt/Condo,West End,Vancouver,2,2,1320
+249,499000,202-233 Abbott Street,Apt/Condo,Downtown West,Vancouver,1,1,545
+250,1147000,804-2799 Yew Street,Apt/Condo,Kitsilano,Vancouver,2,2,1143
+251,749900,701-821 Cambie Street,Apt/Condo,Downtown West,Vancouver,1,1,759
+252,718000,3110-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,0,1,384
+253,623000,205-1835 Barclay Street,Apt/Condo,West End,Vancouver,1,1,717
+254,699900,906-1788 Columbia Street,Apt/Condo,False Creek,Vancouver,1,1,596
+255,929000,210-1680 W 4th Avenue,Apt/Condo,False Creek,Vancouver,2,2,920
+256,849000,405-55 E Cordova Street,Apt/Condo,Downtown East,Vancouver,0,1,965
+257,5580000,PH 401-2968 Birch Street,Apt/Condo,Fairview,Vancouver,3,3,2325
+258,3565000,301-2968 Birch Street,Apt/Condo,Fairview,Vancouver,2,3,1550
+259,679900,504-66 W Cordova Street,Apt/Condo,Downtown West,Vancouver,2,2,805
+260,6988900,5601-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,3,4,3050
+261,698000,101-1330 Jervis Street,Apt/Condo,West End,Vancouver,1,1,606
+262,3487500,201-2968 Birch Street,Apt/Condo,Fairview,Vancouver,2,3,1550
+263,919000,404-3720 W 8th Avenue,Apt/Condo,Point Grey,Vancouver,2,2,1017
+264,1478888,506-181 W 1st Avenue,Apt/Condo,False Creek,Vancouver,2,2,1121
+265,3500000,5006-777 Richards Street,Apt/Condo,Downtown West,Vancouver,2,3,1553
+266,889900,208-3636 W 39th Avenue,Apt/Condo,Southlands,Vancouver,1,1,738
+267,479000,103-950 Drake Street,Apt/Condo,Downtown West,Vancouver,1,1,486
+268,3366000,101-2968 Birch Street,Apt/Condo,Fairview,Vancouver,2,3,1496
+269,673000,808-1199 Seymour Street,Apt/Condo,Downtown West,Vancouver,1,1,631
+270,948000,402-1072 Hamilton Street,Apt/Condo,Yaletown,Vancouver,2,2,789
+271,5388900,5203-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,3,3,2393
+272,1899000,3403-1189 Melville Street,Apt/Condo,Coal Harbour,Vancouver,3,3,1697
+273,6288000,2201-1328 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,3,4,3071
+274,1409000,3105-1211 Melville Street,Apt/Condo,Coal Harbour,Vancouver,2,2,1070
+275,788000,309-53 W Hastings Street,Apt/Condo,Downtown West,Vancouver,1,1,969
+276,1199000,2803-1189 Howe Street,Apt/Condo,Downtown West,Vancouver,3,2,1184
+277,679000,10-1425 Lamey's Mill Road,Apt/Condo,False Creek,Vancouver,2,2,1340
+278,699000,108-1859 Spyglass Place,Apt/Condo,False Creek,Vancouver,1,1,777
+279,899000,516-3588 Sawmill Crescent,Apt/Condo,South Marine,Vancouver,2,2,1050
+280,899000,1807-1189 Melville Street,Apt/Condo,Coal Harbour,Vancouver,1,1,724
+281,899900,1207-565 Smithe Street,Apt/Condo,Downtown West,Vancouver,2,2,788
+282,749000,507-1495 Richards Street,Apt/Condo,Yaletown,Vancouver,1,1,563
+283,1398000,409-3487 Binning Road,Apt/Condo,University (Ubc),Vancouver,3,2,1302
+284,1399000,406-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,3,2,1131
+285,759000,210-508 W 29th Avenue,Apt/Condo,Cambie,Vancouver,1,1,670
+286,969000,307-1477 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,1,1,817
+287,589900,405-2688 Vine Street,Apt/Condo,Kitsilano,Vancouver,1,1,558
+288,599000,1803-977 Mainland Street,Apt/Condo,Yaletown,Vancouver,1,1,514
+289,1950000,1402-1171 Jervis Street,Apt/Condo,West End,Vancouver,2,2,1280
+290,3149900,407-3636 W 39th Avenue,Apt/Condo,Southlands,Vancouver,3,2,1527
+291,849000,1804-610 Granville Street,Apt/Condo,Downtown West,Vancouver,2,1,758
+292,2488000,1901-1835 Morton Avenue,Apt/Condo,West End,Vancouver,2,2,1510
+293,2199900,403-3636 W 39th Avenue,Apt/Condo,Southlands,Vancouver,2,3,1280
+294,729000,205-531 Beatty Street,Apt/Condo,Downtown West,Vancouver,1,1,719
+295,459000,101-2272 Dundas Street,Apt/Condo,Hastings,Vancouver,1,1,556
+296,649900,1002-928 Homer Street,Apt/Condo,Yaletown,Vancouver,1,1,496
+297,489900,106-8770 Laurel Street,Apt/Condo,Marpole,Vancouver,2,2,1001
+298,778900,1907-1775 Quebec Street,Apt/Condo,Mount Pleasant East,Vancouver,1,1,653
+299,1849900,101-717 W 17 Avenue,Apt/Condo,Cambie,Vancouver,2,2,1173
+300,3788000,PH2015-68 Smithe Street,Apt/Condo,Downtown West,Vancouver,3,4,2240
+301,6150000,602-277 Thurlow Street,Apt/Condo,Coal Harbour,Vancouver,2,3,2497
+302,499000,333-3364 Marquette Crescent,Apt/Condo,Champlain Heights,Vancouver,2,2,1029
+303,2388000,4608-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,2,1191
+304,2498000,2801-1188 Quebec Street,Apt/Condo,Downtown East,Vancouver,3,2,1933
+305,948000,808-1050 Burrard Street,Apt/Condo,Downtown West,Vancouver,2,2,1006
+306,4880000,1702-1501 Howe Street,Apt/Condo,Yaletown,Vancouver,4,4,2405
+307,4150000,1801-1171 Jervis Street,Apt/Condo,West End,Vancouver,2,3,2262
+308,849000,305-1006 Beach Avenue,Apt/Condo,Yaletown,Vancouver,2,2,981
+309,969000,307-1477 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,1,1,817
+310,848800,7-229 Carrall Street,Apt/Condo,Downtown West,Vancouver,1,1,894
+311,3480000,602-620 Cardero Street,Apt/Condo,Coal Harbour,Vancouver,3,3,1628
+312,2798000,801-1383 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,3,2,1866
+313,428000,908-3438 Vanness Avenue,Apt/Condo,Collingwood,Vancouver,1,1,546
+314,868888,804-1252 Hornby Street,Apt/Condo,Downtown West,Vancouver,2,2,938
+315,2588000,301-1510 W 6th Avenue,Apt/Condo,Fairview,Vancouver,3,3,1761
+316,675000,1408-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,1,1,439
+317,788000,1409-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,2,1,617
+318,919000,1206-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,2,2,771
+319,659900,223 E 20th Avenue,Apt/Condo,Main,Vancouver,1,2,633
+320,1398000,407-55 E Cordova Street,Apt/Condo,Downtown East,Vancouver,1,2,1386
+321,1537900,603-5089 Quebec Street,Apt/Condo,Main,Vancouver,3,2,1175
+322,1198000,204-1132 Haro Street,Apt/Condo,West End,Vancouver,2,2,1240
+323,1149900,305-1128 Quebec Street,Apt/Condo,Downtown East,Vancouver,3,2,1428
+324,708888,3002-131 Regiment Square,Apt/Condo,Downtown West,Vancouver,1,1,556
+325,989900,409-2508 Fraser Street,Apt/Condo,Mount Pleasant East,Vancouver,1,2,867
+326,629900,705-5639 Hampton Place,Apt/Condo,University (Ubc),Vancouver,1,1,634
+327,549000,3-25 Garden Drive,Apt/Condo,Hastings,Vancouver,2,1,752
+328,449000,312-2891 E Hastings Street,Apt/Condo,Hastings Sunrise,Vancouver,1,1,655
+329,599900,1407-8189 Cambie Street,Apt/Condo,Marpole,Vancouver,1,1,440
+330,699900,1101-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,1,759
+331,2998000,5505-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,3,1593
+332,3299000,1603-1650 Bayshore Drive,Apt/Condo,Coal Harbour,Vancouver,2,3,1832
+333,849000,1501-602 Citadel Parade,Apt/Condo,Downtown West,Vancouver,2,1,816
+334,10990000,4601-667 Howe Street,Apt/Condo,Downtown West,Vancouver,4,5,3722
+335,1899900,202-3639 West 16th Avenue,Apt/Condo,Point Grey,Vancouver,2,3,1244
+336,1268000,208-485 W 63 Avenue,Apt/Condo,Marpole,Vancouver,3,2,983
+337,1028000,103-485 W 63 Avenue,Apt/Condo,Marpole,Vancouver,2,2,758
+338,745090,101-485 W 63 Avenue,Apt/Condo,Marpole,Vancouver,1,1,543
+339,818800,303-485 W 63 Avenue,Apt/Condo,Marpole,Vancouver,1,1,629
+340,2480000,1902-1228 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,3,2,1392
+341,709000,606-1420 W Georgia Street,Apt/Condo,West End,Vancouver,1,1,683
+342,988000,1906-1111 Alberni Street,Apt/Condo,West End,Vancouver,1,1,731
+343,659000,2008-5470 Ormidale Street,Apt/Condo,Collingwood,Vancouver,2,2,748
+344,2298000,2301-1199 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,3,2,1391
+345,1148000,901-5926 Tisdall Street,Apt/Condo,Oakridge,Vancouver,3,2,1603
+346,998000,407-272 E 4th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,2,1250
+347,1349000,1005-212 Davie Street,Apt/Condo,Yaletown,Vancouver,2,2,1238
+348,1668800,PH2-485 W 63 Avenue,Apt/Condo,Marpole,Vancouver,3,2,1083
+349,838000,607-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,883
+350,449900,207-5025 Joyce Street,Apt/Condo,Collingwood,Vancouver,1,1,715
+351,510000,318-4028 Knight Street,Apt/Condo,Knight,Vancouver,1,1,553
+352,2998000,5505-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,3,1593
+353,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+354,673000,1610-688 Abbott Street,Apt/Condo,Downtown West,Vancouver,1,1,600
+355,840000,1201-108 W Cordova Street,Apt/Condo,Downtown West,Vancouver,1,1,801
+356,1342000,2304-1200 Alberni Street,Apt/Condo,West End,Vancouver,3,2,1148
+357,2680000,900-1235 W Broadway,Apt/Condo,Fairview,Vancouver,3,3,1885
+358,1378000,604-5383 Cambie Street,Apt/Condo,Cambie,Vancouver,2,2,863
+359,1120000,3602-928 Beatty Street,Apt/Condo,Yaletown,Vancouver,2,2,868
+360,999000,1102-1420 West Georgia Street,Apt/Condo,West End,Vancouver,2,2,801
+361,749000,1306-1420 West Georgia Street,Apt/Condo,West End,Vancouver,1,1,682
+362,1259000,1210-1500 Hornby Street,Apt/Condo,Yaletown,Vancouver,2,2,1212
+363,1768000,501-5383 Cambie Street,Apt/Condo,Cambie,Vancouver,3,2,1118
+364,2380000,303-8 Smithe Mews,Apt/Condo,Yaletown,Vancouver,2,2,1229
+365,330000,804-1250 Burnaby Street,Apt/Condo,West End,Vancouver,1,1,430
+366,1699000,2821-89 Nelson Street,Apt/Condo,Yaletown,Vancouver,2,2,868
+367,429000,210-4815 Eldorado Mews,Apt/Condo,Collingwood,Vancouver,1,1,411
+368,6800000,1001-1633 Ontario Street,Apt/Condo,False Creek,Vancouver,3,4,2509
+369,2850000,201-977 W 8th Avenue,Apt/Condo,Fairview,Vancouver,2,2,1695
+370,635900,105-4933 Clarendon Street,Apt/Condo,Collingwood,Vancouver,2,2,743
+371,691900,408-4933 Clarendon Street,Apt/Condo,Collingwood,Vancouver,2,2,716
+372,2379000,404-1650 Bayshore Drive,Apt/Condo,Coal Harbour,Vancouver,2,2,1494
+373,2288000,604-5058 Cambie Street,Apt/Condo,Cambie,Vancouver,3,2,1223
+374,1429000,3303-1199 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,2,2,1043
+375,1465000,503-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1165
+376,568500,610-2221 E 30th Avenue,Apt/Condo,Victoria East,Vancouver,1,1,534
+377,4480000,PH3603-838 W Hastings Street,Apt/Condo,Downtown West,Vancouver,3,3,2368
+378,2799000,1303-1688 Pullman Porter Street,Apt/Condo,Mount Pleasant East,Vancouver,2,2,1192
+379,3600000,1803-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,4,3,1623
+380,2500000,1802-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,3,2,1345
+381,489000,315-1189 Howe Street,Apt/Condo,Downtown West,Vancouver,0,1,497
+382,1038000,208-6933 Cambie Street,Apt/Condo,South Cambie,Vancouver,2,2,940
+383,5380000,PH 3604-838 W Hastings Street,Apt/Condo,Downtown West,Vancouver,3,3,2888
+384,2488000,1202-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1565
+385,1588000,603-590 Nicola Street,Apt/Condo,Coal Harbour,Vancouver,1,2,1195
+386,779900,402-2001 Wall Street,Apt/Condo,Hastings,Vancouver,1,1,900
+387,699000,409-256 E 2nd Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,1,732
+388,2980000,2801-838 W Hastings Street,Apt/Condo,Downtown West,Vancouver,2,3,2056
+389,988000,1206-8555 Granville Street,Apt/Condo,Southwest Marine,Vancouver,2,2,994
+390,585000,76-1425 Lamey's Mill Road,Apt/Condo,False Creek,Vancouver,1,1,1056
+391,1198000,203-189 National Avenue,Apt/Condo,Downtown East,Vancouver,2,2,1221
+392,749900,404-2189 W 42nd Avenue,Apt/Condo,Kerrisdale,Vancouver,1,1,881
+393,628000,221-2150 E Hastings Street,Apt/Condo,Hastings,Vancouver,2,2,795
+394,759000,1602-1288 West Georgia Street,Apt/Condo,West End,Vancouver,1,1,689
+395,1499800,4301-777 Richards Street,Apt/Condo,Downtown West,Vancouver,2,2,885
+396,699900,1101-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,1,759
+397,2998000,5505-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,3,1593
+398,2875000,3202-667 Howe Street,Apt/Condo,Downtown West,Vancouver,2,2,1482
+399,849000,601-610 Granville Street,Apt/Condo,Downtown West,Vancouver,1,1,864
+400,639000,509-602 Citadel Parade,Apt/Condo,Downtown West,Vancouver,1,1,656
+401,13888800,3902-1550 Alberni Street,Apt/Condo,West End,Vancouver,3,4,4030
+402,1588000,4508-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,2,2,1056
+403,768000,209-2528 Collingwood Street,Apt/Condo,Kitsilano,Vancouver,2,2,767
+404,899000,534 E 8th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,2,2,740
+405,2480000,2801-1111 Alberni Street,Apt/Condo,West End,Vancouver,2,3,1553
+406,878000,1101-867 Hamilton Street,Apt/Condo,Downtown West,Vancouver,2,2,1031
+407,998000,2506-688 Abbott Street,Apt/Condo,Downtown West,Vancouver,2,2,920
+408,1498800,210-444 West 49th Avenue,Apt/Condo,South Cambie,Vancouver,2,2,1236
+409,738000,1502-68 Smithe Street,Apt/Condo,Downtown West,Vancouver,1,1,513
+410,1749000,2601-1408 Strathmore Mews,Apt/Condo,Yaletown,Vancouver,2,2,1060
+411,720000,2503-108 W Cordova Street,Apt/Condo,Downtown West,Vancouver,1,1,682
+412,3398000,2404-1550 Alberni Street,Apt/Condo,West End,Vancouver,2,2,1165
+413,2898000,501-6168 East Boulevard,Apt/Condo,Kerrisdale,Vancouver,2,3,1694
+414,1068000,307-3487 Binning Road,Apt/Condo,University (Ubc),Vancouver,2,2,907
+415,680000,202-2889 E 1st Avenue,Apt/Condo,Renfrew,Vancouver,3,2,876
+416,429900,1501-1251 Cardero Street,Apt/Condo,West End,Vancouver,1,1,694
+417,998000,2202-689 Abbott Street,Apt/Condo,Downtown West,Vancouver,2,2,933
+418,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+419,1429000,3303-1199 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,2,2,1043
+420,1259000,2801-1189 Howe Street,Apt/Condo,Downtown West,Vancouver,3,2,1096
+421,1928000,804-1790 Bayshore Drive,Apt/Condo,Coal Harbour,Vancouver,2,2,1204
+422,5350000,5701-1289 Hornby Street,Apt/Condo,Downtown West,Vancouver,3,4,1926
+423,3998000,3002-1011 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1870
+424,8980000,3801-1211 Melville Street,Apt/Condo,Coal Harbour,Vancouver,2,4,3278
+425,750000,1106-1383 Howe Street,Apt/Condo,Downtown West,Vancouver,2,2,844
+426,2399000,2901-1166 Melville Street,Apt/Condo,Coal Harbour,Vancouver,4,4,2094
+427,2498900,204-717 West 17th Avenue,Apt/Condo,Cambie,Vancouver,3,3,1420
+428,1658000,1702-3487 Binning Road,Apt/Condo,University (Ubc),Vancouver,3,2,1033
+429,818000,401-5639 Hampton Place,Apt/Condo,University (Ubc),Vancouver,2,2,1045
+430,3088000,3703-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,3,3,1467
+431,2849000,501-4488 Cambie Street,Apt/Condo,Cambie,Vancouver,3,4,2117
+432,1150000,PH1903-1088 Richards Street,Apt/Condo,Yaletown,Vancouver,1,1,786
+433,1079000,203-238 Alvin Narod Mews,Apt/Condo,Yaletown,Vancouver,2,2,1344
+434,949900,1404-1323 Homer Street,Apt/Condo,Yaletown,Vancouver,1,1,732
+435,5850000,4901-1128 W Georgia Street,Apt/Condo,West End,Vancouver,2,3,2527
+436,838000,204-7520 Columbia Street,Apt/Condo,Marpole,Vancouver,2,2,1165
+437,2875000,3402-1111 Alberni Street,Apt/Condo,West End,Vancouver,2,2,1619
+438,3099900,405-633 W King Edward Avenue,Apt/Condo,Cambie,Vancouver,3,2,1794
+439,579000,805-2799 Yew Street,Apt/Condo,Kitsilano,Vancouver,1,1,616
+440,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+441,1448000,1401-1205 Howe Street,Apt/Condo,Downtown West,Vancouver,2,2,1248
+442,1079900,902-1887 Crowe Street,Apt/Condo,False Creek,Vancouver,2,2,1058
+443,759000,210-508 W 29th Avenue,Apt/Condo,Cambie,Vancouver,1,1,670
+444,1180000,711-8580 River District Crossing,Apt/Condo,South Marine,Vancouver,2,2,1173
+445,1599900,210-3639 W 16th Avenue,Apt/Condo,Dunbar,Vancouver,2,2,1155
+446,699900,229 E 20th Avenue,Apt/Condo,Main,Vancouver,1,2,631
+447,658000,604-1088 Richards Street,Apt/Condo,Yaletown,Vancouver,1,1,561
+448,2500000,1206-1221 Bidwell Street,Apt/Condo,West End,Vancouver,2,2,1041
+449,599999,1703-2220 Kingsway,Apt/Condo,Victoria East,Vancouver,1,1,496
+450,3480000,2802-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,3,3,1908
+451,598000,401-3680 Rae Avenue,Apt/Condo,Collingwood,Vancouver,2,2,924
+452,1068000,803-3533 Ross Drive,Apt/Condo,University (Ubc),Vancouver,2,2,867
+453,1399000,201-4988 Cambie Street,Apt/Condo,Cambie,Vancouver,2,2,1150
+454,1390000,627-3563 Ross Drive,Apt/Condo,University (Ubc),Vancouver,2,2,912
+455,1899000,2304-1500 Howe Street,Apt/Condo,Yaletown,Vancouver,3,2,1708
+456,778000,302-4638 Gladstone Street,Apt/Condo,Victoria East,Vancouver,2,2,894
+457,7700000,2301-1233 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,4,4,3037
+458,999000,506-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,989
+459,8300000,502-277 Thurlow Street,Apt/Condo,Coal Harbour,Vancouver,2,3,2600
+460,5998000,3701-1495 Richards Street,Apt/Condo,Yaletown,Vancouver,3,3,2528
+461,1489000,227-3563 Ross Drive,Apt/Condo,University (Ubc),Vancouver,2,2,912
+462,1478888,506-181 W 1st Avenue,Apt/Condo,False Creek,Vancouver,2,2,1121
+463,655000,307-928 Beatty Street,Apt/Condo,Yaletown,Vancouver,1,1,618
+464,1199000,1006-1333 W Georgia Street,Apt/Condo,Coal Harbour,Vancouver,2,2,968
+465,1680000,1207-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,3,2,1109
+466,1199000,4105 Hudson Street,Apt/Condo,Shaughnessy,Vancouver,2,2,1033
+467,749900,601-1708 Ontario Street,Apt/Condo,Mount Pleasant East,Vancouver,1,1,610
+468,749000,202-1989 Dunbar Street,Apt/Condo,Kitsilano,Vancouver,2,2,864
+469,2100000,307-3639 W 16th Avenue,Apt/Condo,Point Grey,Vancouver,2,3,1249
+470,1090000,608-1561 W 57th Avenue,Apt/Condo,South Granville,Vancouver,1,1,708
+471,4480000,5703-1151 W Georgia Street,Apt/Condo,Coal Harbour,Vancouver,3,3,1564
+472,950000,207-2888 Arbutus Street,Apt/Condo,Kitsilano,Vancouver,1,1,632
+473,1690000,PH5-2888 Arbutus Street,Apt/Condo,Kitsilano,Vancouver,2,2,957
+474,1210000,301-2888 Arbutus Street,Apt/Condo,Kitsilano,Vancouver,2,2,758
+475,799000,111-5033 Cambie Street,Apt/Condo,Cambie,Vancouver,1,1,661
+476,1190000,323-5955 Birney Avenue,Apt/Condo,University (Ubc),Vancouver,3,2,1168
+477,2325000,505-4963 Cambie Street,Apt/Condo,Cambie,Vancouver,3,3,1372
+478,2560000,504-4963 Cambie Street,Apt/Condo,Cambie,Vancouver,3,3,1552
+479,1975900,1604W-1180 Broughton Street,Apt/Condo,West End,Vancouver,2,2,953
+480,2624900,1201W-1180 Broughton Street,Apt/Condo,West End,Vancouver,2,3,1336
+481,5350900,1701E-1385 Davie Street,Apt/Condo,West End,Vancouver,3,4,2132
+482,2599900,1603E-1385 Davie Street,Apt/Condo,West End,Vancouver,2,3,1336
+483,1900900,1501E-1385 Davie Street,Apt/Condo,West End,Vancouver,2,2,953
+484,1148000,2603-188 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,2,1027
+485,849000,305-1006 Beach Avenue,Apt/Condo,Yaletown,Vancouver,2,2,981
+486,7680000,3401-1011 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,2,3,2237
+487,2298000,805-1571 West 57th Avenue,Apt/Condo,South Granville,Vancouver,3,2,1412
+488,568000,423-1333 Hornby Street,Apt/Condo,Downtown West,Vancouver,0,1,462
+489,2449000,803-1678 Pullman Porter Street,Apt/Condo,Victoria East,Vancouver,2,2,1382
+490,2550000,1801-1280 Richards Street,Apt/Condo,Yaletown,Vancouver,2,3,1861
+491,1198000,3706-1151 West Georgia Street,Apt/Condo,Coal Harbour,Vancouver,1,1,615
+492,1060000,2501-1325 Rolston Street,Apt/Condo,Downtown West,Vancouver,2,2,842
+493,1198000,1901-8555 Granville Street,Apt/Condo,Southwest Marine,Vancouver,2,2,946
+494,1899000,705-1550 Alberni Street,Apt/Condo,West End,Vancouver,1,1,795
+495,4352888,1402-1550 Alberni Street,Apt/Condo,West End,Vancouver,2,2,2177
+496,1890000,1102-1550 Alberni Street,Apt/Condo,West End,Vancouver,1,1,742
+497,1380000,4301-1289 Hornby Street,Apt/Condo,Downtown West,Vancouver,2,2,763
+498,3299000,901-1550 Alberni Street,Apt/Condo,West End,Vancouver,2,2,1452
+499,759000,805-668 Citadel Parade,Apt/Condo,Downtown West,Vancouver,2,1,755
+500,1388000,1858-38 Smithe Street,Apt/Condo,Downtown West,Vancouver,2,2,971
+501,1999999,1401-2628 Ash Street,Apt/Condo,Fairview,Vancouver,3,3,2050
+502,1068000,406-2250 Wesbrook Mall,Apt/Condo,University (Ubc),Vancouver,3,2,1238
+503,1099000,1206-89 Nelson Street,Apt/Condo,Yaletown,Vancouver,2,2,762
+504,528888,1706-5665 Boundary Road,Apt/Condo,Collingwood,Vancouver,1,1,531
+505,6388800,3601-1011 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,2,3,2237
+506,4900000,4903-1480 Howe Street,Apt/Condo,Yaletown,Vancouver,3,3,2137
+507,699900,1101-183 Keefer Place,Apt/Condo,Downtown West,Vancouver,2,1,759
+508,1349000,PH-5-188 Keefer Street,Apt/Condo,Downtown East,Vancouver,2,3,990
+509,915000,3007-939 Homer Street,Apt/Condo,Yaletown,Vancouver,2,2,888
+510,699000,107-1935 W 1st Avenue,Apt/Condo,Kitsilano,Vancouver,1,1,725
+511,649000,1008-1723 Alberni Street,Apt/Condo,West End,Vancouver,1,1,579
+512,888000,1807-999 Seymour Street,Apt/Condo,Downtown West,Vancouver,1,1,700
+513,459900,605-231 E Pender Street,Apt/Condo,Strathcona,Vancouver,1,1,492
+514,588000,415-3638 Vanness Avenue,Apt/Condo,Collingwood,Vancouver,2,1,812
+515,1650000,6001-1151 W Georgia Street,Apt/Condo,Coal Harbour,Vancouver,1,2,855
+516,1589900,302-1600 Hornby Street,Apt/Condo,Yaletown,Vancouver,2,2,1353
+517,788888,1603-939 Homer Street,Apt/Condo,Yaletown,Vancouver,1,1,583
+518,549000,1010-2733 Chandlery Place,Apt/Condo,South Marine,Vancouver,2,2,804
+519,799900,1106-1028 Barclay Street,Apt/Condo,West End,Vancouver,1,1,672
+520,1198000,404-528 W King Edward Avenue,Apt/Condo,Cambie,Vancouver,2,2,879
+521,695000,204-5033 Cambie Street,Apt/Condo,Cambie,Vancouver,1,1,540
+522,1090000,308-4083 Cambie Street,Apt/Condo,Cambie,Vancouver,1,2,1008
+523,359900,1503-3438 Vanness Avenue,Apt/Condo,Collingwood,Vancouver,0,1,407
+524,695000,102-1478 W 73rd Avenue,Apt/Condo,Marpole,Vancouver,2,2,1107
+525,1369000,308-3581 E Kent Avenue North,Apt/Condo,South Marine,Vancouver,3,2,1155
+526,539000,613-989 Nelson Street,Apt/Condo,Downtown West,Vancouver,1,1,509
+527,1688800,304-375 W 59th Avenue,Apt/Condo,South Cambie,Vancouver,3,2,1274
+528,1429000,3303-1199 Marinaside Crescent,Apt/Condo,Yaletown,Vancouver,2,2,1043
+529,1465000,503-1499 W Pender Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1165
+530,588000,1209-1225 Richards Street,Apt/Condo,Yaletown,Vancouver,1,1,500
+531,499900,1104-989 Beatty Street,Apt/Condo,Yaletown,Vancouver,0,1,476
+532,437000,104-2250 Oxford Street,Apt/Condo,Hastings,Vancouver,1,1,527
+533,1598000,4009-777 Richards Street,Apt/Condo,Downtown West,Vancouver,2,2,1055
+534,925000,302-5058 Joyce Street,Apt/Condo,Collingwood,Vancouver,2,2,925
+535,499900,1006-955 E Hastings Street,Apt/Condo,Strathcona,Vancouver,1,1,546
+536,3980000,2907-1011 W Cordova Street,Apt/Condo,Coal Harbour,Vancouver,2,3,1810
+537,1198000,PH3-3479 Wesbrook Mall,Apt/Condo,University (Ubc),Vancouver,3,2,1138
+538,539000,308-2226 W 12th Avenue,Apt/Condo,Kitsilano,Vancouver,0,1,530
+539,1198000,3201-1211 Melville Street,Apt/Condo,Coal Harbour,Vancouver,2,2,814
+540,669000,318-311 E 6th Avenue,Apt/Condo,Mount Pleasant East,Vancouver,1,1,553
+541,675000,1611-833 Seymour Street,Apt/Condo,Downtown West,Vancouver,1,1,654
+542,818000,505-1950 Robson Street,Apt/Condo,West End,Vancouver,2,1,888
+543,1178000,301-618 Abbott Street,Apt/Condo,Downtown West,Vancouver,2,2,1016
+544,680000,1908-833 Homer Street,Apt/Condo,Downtown West,Vancouver,1,1,533
+545,678000,404-1355 Harwood Street,Apt/Condo,West End,Vancouver,1,1,740
+546,1388800,1803-1055 Homer Street,Apt/Condo,Yaletown,Vancouver,2,2,1020
+547,798000,309-2388 Western Parkway,Apt/Condo,University (Ubc),Vancouver,2,2,835
+548,799000,1503-907 Beach Avenue,Apt/Condo,Yaletown,Vancouver,1,1,676
+549,1128000,310-181 W 1st Avenue,Apt/Condo,False Creek,Vancouver,2,2,1015

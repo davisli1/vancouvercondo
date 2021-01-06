@@ -1,6 +1,6 @@
 This is my project for looking at Real Estate Data in Vancouver
 
-Purpose: I wanted to invest in a condo in Vancouver, so I want to create a Machine Learning model to help me price properties
+Purpose: I want to invest in a condo in Vancouver, so I want to create a Machine Learning model to help me price properties
 
 Process
 1. Parse Data from Website

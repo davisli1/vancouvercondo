@@ -1,0 +1,27 @@
+#testing for parser
+
+# Finding the price of property, and cleaning it
+print(containertest.findAll('div', {'class': 'displaypanel-title'})[0].text.strip().replace("$", "").replace(",", ""))
+
+#Finding location of the property
+print(containertest.div.a['title'][: containertest.div.a['title'].find(',')])
+
+# Getting Region 
+soup = container
+print(soup.select('ul > li')[0].get_text(strip=True))
+
+# Getting City
+soup = BeautifulSoup = containertest
+print(soup.select('ul > li')[1].get_text(strip=True))
+
+# Getting # of Bedrooms
+soup = BeautifulSoup = containertest
+print(soup.select('ul > li')[2].get_text(strip=True).replace(" bd", ""))
+
+# Getting # of Bathrooms
+soup = BeautifulSoup = containertest
+print(soup.select('ul > li')[3].get_text(strip=True).replace(" ba", ""))
+
+# Getting sqft
+soup = BeautifulSoup = containertest
+print(soup.select('ul > li')[4].get_text(strip=True).replace(" sf", ""))
